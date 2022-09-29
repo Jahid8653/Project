@@ -1,0 +1,25 @@
+.Edit_Item{
+    text-align: center;
+    margin-top: -24PX;
+    padding-bottom: 70PX;
+    padding-top: 70PX;
+    background-image: linear-gradient(215deg,rgb(29, 133, 194),rgb(215, 230, 9));
+    color: white;
+}
+
+.Edit_Item2{
+    text-align: center;
+    margin-top: 10px;
+    height: 350px;
+}
+
+.Item_Color{
+    margin-left: 450px;
+    margin-right: 450PX;
+    color: rgb(25, 4, 211);
+    background-color: rgb(228, 235, 238);
+}
+
+.Style_Submit{
+    color: blue;
+}

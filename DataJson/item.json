@@ -1,0 +1,39 @@
+{
+  "item": [
+    {
+      "item_name": "LG",
+      "item_color": "Red",
+      "price": "50000",
+      "description": "I am a Mobile",
+      "id": 1
+    },
+    {
+      "item_name": "Samsung",
+      "item_color": "Blue",
+      "price": "20000",
+      "description": "I am a Mobile",
+      "id": 2
+    },
+    {
+      "item_name": "Mobile",
+      "item_color": "Red",
+      "price": "25000",
+      "description": "I am a Mobile",
+      "id": 3
+    },
+    {
+      "item_name": "Hp",
+      "item_color": "White",
+      "price": "78000",
+      "description": "I am a laptop",
+      "id": 4
+    },
+    {
+      "item_name": "Lenovo",
+      "item_color": "Orange",
+      "price": "50000",
+      "description": "I am a Mobile",
+      "id": 5
+    }
+  ]
+}
